@@ -1,6 +1,5 @@
 HTML = index.html \
 			 schedule.html \
-			 projects.html \
 			 details.html \
 			 syllabus.html \
 			 
