@@ -1,6 +1,5 @@
 HTML = index.html \
 			 schedule.html \
-			 details.html \
 			 syllabus.html \
 			 
 AUX_CSS = css/main.css
