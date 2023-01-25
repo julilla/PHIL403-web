@@ -157,16 +157,208 @@ LEC = (Mon or Wed or Fri) and not Holidays
 # Skip opening convocation
 #Thr
 
+#week 1 Wed
 LEC
 - Lec: Introduction
 - Prep: 
+
+#week 1 Fri
+LEC
+- Lec: <b>Data, who, what, where?</b>
+- Prep: [https://aeon.co/essays/why-big-data-is-actually-small-personal-and-very-human Lemov, <i>Data is people</i>]
+- Prep: [https://www.propublica.org/article/everything-we-know-about-what-data-brokers-know-about-you Becket, <i>Everything we know about what data brokers know about you</i>]
+
+#week 2 Mon
+LEC
+- Lec: <b>Data as property</b>
+- Prep: John Locke, <i>Second Treatise of Government,</i>  chapter 5.
+
+#week 2 Wed
+LEC
+- Lec: <b>Data as property</b>
+#- Prep: Schwartz, <i>Property, Privacy, and Personal Data</i>
+- Prep: [https://bruknow.library.brown.edu/permalink/01BU_INST/9mvq88/alma991043196079706966 Mcnish et al, <i>Big Data and Democracy,</i> chapter 3]
+
+#week 2 Fri
+LEC
+- Lec: <b>Data as property</b>
+- Prep: Muldoon, <i>Data-owning democracy or digital socialism?</i>
+
+#week 3 Mon
+LEC
+- Lec: <b>Data as a factor of production</b>
+- Prep: Sadowski, <i>When data is capital: Datafication, accumulation, and extraction</i>
+
+#week 3 Wed
+LEC
+- Lec: <b>Data as a factor of production</b>
+- Prep: Avent, <i>The Wealth of Humans: Work, Power, and Status in the Twenty-first Century,</i> part 2
+
+#week 3 Fri
+LEC
+- Lec: <b>Data as a factor of production</b>
+- Prep: Weyl and Posner, <i>Data as Labor</i>
+
+#week 4 Mon
+LEC
+- Lec: <b>Data as an extension of the body</b>
+- Prep: Berson, <i>Computable Bodies: Instrumented Life and the Human Somatic Niche,</i> chapter 4
+
+#week 4 Wed
+LEC
+- Lec: <b>Data as an extension of the body</b>
+- Prep: Lupton, <i>Data Selves, </i> chapter 4
+
+#week 4 Fri
+LEC
+- Lec: <b>Data as an extension of the body</b>
+- Prep: Vallor, <i>Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting, </i> chapter 8
+
+#week 5 Mon
+LEC
+- Lec: <b>Use of data: surveillance and control</b>
+- Prep: Foucault ,<i> Discipline and Punish, </i> chapter 3
+
+#week 5 Wed
+LEC
+- Lec: <b>Use of data: surveillance and control</b>
+- Prep: Warren and Brandeis, <i>The Right to Privacy</i>
+
+
+#week 5 Fri
+LEC
+- Lec: <b>Use of data: surveillance and control</b>
+- Prep: <i>Privacy-as-Data Control: Conceptual, Practical, and Moral Limits
+    of the Paradigm</i>
+
+#week 6 Mon
+LEC
+- Lec: <b>Use of data: prediction</b>
+- Prep:Brayne, <i> Predict and Surveil: Data, Discretion, and the Future of Policing, </i>chapter 4
+
+#week 6 Wed
+LEC
+- Lec: <b>Use of data: prediction</b>
+- Prep: Sunstein, <i>Algorithms, Correcting Biases</i>
+
+#week 6 Fri
+LEC
+- Lec: <b>Use of data: manipulation</b>
+- Prep: <i>Pettit, Freedom as Antipower</i>
+
+#week 7 Mon
+LEC
+- Lec: <b>Use of data: manipulation</b>
+- Prep: Sunstein, <i>The Ethics of Influence: Government in the Age of Behavioral Science,</i> chapter 5
+
+#week 7 Wed
+LEC
+- Lec: <b>Use of data: accountability</b>
+- Prep: [https://bruknow.library.brown.edu/permalink/01BU_INST/9mvq88/alma991043196079706966 Mcnish et al, <i>Big Data and Democracy,</i> chapters 10 and 11]
+
+#week 7 Fri
+LEC
+- Lec: <b>Writing workshop</b>
+
+
+#week 8 Mon
+LEC
+- Lec: <b>Controlling data: consent</b>
+- Prep: Simmons, <i>Tacit Consent and Political Obligation</i>
+
+#week 8 Wed
+LEC
+- Lec: <b>Controlling data: consent</b>
+- Prep: Kleinig, <i>The Ethics of Consent</i>
+
+#week 8 Fri
+LEC
+- Lec: <b>Controlling data: paternalism</b>
+- Prep: Dworkin, <i>Paternalism</i>
+
+#week 9 Mon
+LEC
+- Lec: <b>Controlling data: paternalism</b>
+- Prep: [https://philpapers.org/archive/CASEPO-3.pdf Castro et al. <i>Epistemic Paternalism Online</i>]
+
+#week 9 Wed
+LEC
+- Lec: <b>Hiding data: encryption</b>
+- Prep: Monsees, <i>Crypto-Politics, </i> chapters 1 and 7
+
+#week 9 Fri
+LEC
+- Lec: <b>Hiding data: encryption</b>
+- Prep: Bay, <i>The ethics of unbreakable encryption: Rawlsian privacy and the San Bernardino iPhone</i>
+
+#week 11 Mon
+LEC
+- Lec: <b>Revealing Data: whistleblowing and leaking</b>
+- Prep: Anderson, <i>Privacy for the weak, transparency for the powerful: the cypherpunk ethics of Julian Assange</i>
+
+#week 11 Wed
+LEC
+- Lec: <b>Revealing Data: whistleblowing and leaking</b>
+- Prep: Delmas, <i>The Ethics of Government Whistleblowing</i>
+
+#week 11 Fri
+LEC
+- Lec: <b>Final paper workshop</b>
+- Prep: <i></i>
+
+#week 12 Mon
+LEC
+- Lec: <b>Our data: self-quantification</b>
+- Prep: Lanzing, <i>The transparent self</i>
+
+#week 12 Wed
+LEC
+- Lec: <b>Our data: self-quantification</b>
+- Prep: Danaher, <i>The quantified relationship</i>
+- Prep: Hull, <i>The politics of quantified relationships</i>
+
+#week 12 Fri
+LEC
+- Lec: <b>Our data: sharing and forgetting</b>
+- Prep: Pasquale, <i>The Black Box Society</i>, chapter 2
+
+#week 13 Mon
+LEC
+- Lec: <b>Our data: sharing and forgetting</b>
+- Prep:  <i>Ctrl + Z: The Right to Be Forgotten,</i> chapter 4.
+
+#week 13 Wed
+LEC
+- Lec: <b>Their data: ancestors </b>
+- Prep: Buitelaar,<i>Post-mortem privacy and informational self-determination</i>
+
+#week 13 Fr
+LEC
+- Lec: <b>Their data: ancestors </b>
+- Prep: Winter, <i>Against Posthumous Rights</i>
+
+#week 14 Mon
+LEC
+- Lec: <b>Final paper pitches</b>
+- Prep: <i></i>
+
+#week 14 Wed
+LEC
+- Lec: <b>Final paper pitches</b>
+- Prep: <i></i>
+
+#week 14 Fri
+LEC
+- Lec: <b>Class wrap-up</b>
+- Prep: <i></i>
+
 
 
 
 ##################################################################
 == Assignments ==
 
-Jan 30, 2023
+Feb 6, 2023
 - Assign: Short paper 1
 
 Feb 24, 2023
