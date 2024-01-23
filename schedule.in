@@ -160,7 +160,6 @@ LEC = (Mon or Wed or Fri) and not Holidays
 #week 1 Wed
 LEC
 - Lec: Introduction
-- Prep: 
 
 #week 1 Fri
 LEC
